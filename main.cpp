@@ -13,7 +13,7 @@ int main()
 				printf("%c",fgetc(fp));
 			}
 			fclose(fp);
-			Sleep(10000);
+			Sleep(2000);
 			system("cls");       
 		}
 	return 0;
